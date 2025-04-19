@@ -1,4 +1,4 @@
-#1. Contact üzerinde boş telefon numarasını engelle
+"""#1. Contact üzerinde boş telefon numarasını engelle
 
 ISBLANK(Phone)
 Hata Mesajı: "Telefon numarası zorunludur."
@@ -101,4 +101,4 @@ Hata Mesajı: "Görev tarihi geçmişte olamaz."
 # 20. Müşteri notu 250 karakterden uzun olamaz
 
 LEN(Customer_Notes__c) > 250
-Hata Mesajı: "Müşteri notu en fazla 250 karakter olabilir."
+Hata Mesajı: "Müşteri notu en fazla 250 karakter olabilir."""

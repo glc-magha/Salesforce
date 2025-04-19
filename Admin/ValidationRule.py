@@ -13,7 +13,7 @@ Hata Mesajı: "Geçerli bir e-posta adresi girin."
 Birthdate > TODAY()
 Hata Mesajı: "Doğum tarihi bugünden sonraki bir tarih olamaz."
 
-✅#4. Fırsat tutarı negatif olamaz (Opportunity)
+#4. Fırsat tutarı negatif olamaz (Opportunity)
 
 Amount < 0
 Hata Mesajı: "Tutar negatif olamaz."
